@@ -1,0 +1,82 @@
+@CHARSET "ISO-8859-1";
+#signup
+{
+	background-color:#6666CC;
+	font-size:36px;
+	background-image:url("images/Abandoned_railway_lines.jpg");
+	background-repeat:no-repeat;
+}
+#footer
+{
+background-color:#999998;
+width:100%;
+bottom:0;
+position:relative;
+
+padding:0;
+text-align:center;
+}
+#reservation
+{
+background-image:url("images\Light-Background.jpg");
+height:100%;
+width:100%;
+}
+#header
+{
+	background-image:url("images/gautrain-south-africa-header.jpg");
+	background-repeat:no-repeat;
+	
+}
+#font
+{
+	
+}
+#body
+{
+background-image:url("images/stars-background.jpg");
+}
+#home
+{
+	background-image:url("images/Plain_Background_03.jpg");
+	height:100%;
+    width:100%;
+}
+#train
+{
+	background-image:url("images/1607156.jpg");
+}
+#logo
+{
+	background-image:url("images/main_logo.png");
+	position:absolute;
+	background-repeat:no-repeat;
+}
+#about
+ {
+ font-family: cursive;
+ font-size-adjust: inherit;
+ font-style: italic;
+ }
+ #contact
+  {
+  font-family: cursive;
+  font-style: oblique;
+  }
+   #passanger
+  {
+   font-style: italic;
+  font-family: serif;
+  }
+  #payment
+  {
+  font-style: italic;
+  font-family: serif;
+  }
+   #addnew
+  {
+  font-style: italic;
+  font-family: serif;
+  background-color: "gray";
+  }
+ 
